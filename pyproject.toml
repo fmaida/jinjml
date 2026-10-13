@@ -1,6 +1,6 @@
 [project]
 name = "jinjml"
-version = "0.1.0"
+version = "26.10.0"
 description = ""
 authors = [
     {name = "Francesco Maida",email = "francesco.maida@gmail.com"}
